@@ -101,15 +101,23 @@
 
 #### Taylor Expansion
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/2358c298-12dc-447b-adb8-dce8c443d791)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/ea107264-151f-41d4-8dd4-d912f562d570)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/044cc436-1a4e-49aa-a44e-ee7a0e0e98b8)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/b507f1e2-5c82-4ce0-8e56-bf65e8bac51b)
 
 
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/82c4c290-9b63-4318-b713-67b1545d6cc0)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/e72cf7e6-58bf-4592-b327-e2c25211bcd8)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/0bff0876-3670-46f1-8547-136fa0a0e8f3)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/a903e140-555a-4ee0-ba56-d6b5bb9a1553)
+#
 ![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/48f82784-0dc0-4259-a472-73567c5d9c4a)
 
 #### At (x,y,σ ):
+
