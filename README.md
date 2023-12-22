@@ -88,4 +88,28 @@
 
 #### Step 9：Generate the feature vector for each key point
 #### https://medium.com/data-breach/introduction-to-sift-scale-invariant-feature-transform-65d7f3a72d40#Keypoint%20descriptor
-![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/affe4ad8-c64e-4a1a-bf98-ceb53a33e253)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/39896248-e1e6-48ab-a5ac-1ee4a72d794c)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/4f70bd2a-ddfb-431d-aacd-c09450f0d823)
+
+#### 8 Directions x 2 x 2 = 32 values per key point:
+#### 8 Directions x 4 x 4 = 128 values per key point:
+
+#### The area surrounding one key point is a local property.
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/1282c3f6-0040-4f76-a7b7-af7112afd691)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/396097cf-3d6c-4cb0-9813-d34cb8d03fb7)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/d4c0d7df-790e-4b8c-90b9-9fec1fbd0353)
+
+#### Taylor Expansion
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/2358c298-12dc-447b-adb8-dce8c443d791)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/ea107264-151f-41d4-8dd4-d912f562d570)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/044cc436-1a4e-49aa-a44e-ee7a0e0e98b8)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/b507f1e2-5c82-4ce0-8e56-bf65e8bac51b)
+
+
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/82c4c290-9b63-4318-b713-67b1545d6cc0)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/e72cf7e6-58bf-4592-b327-e2c25211bcd8)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/0bff0876-3670-46f1-8547-136fa0a0e8f3)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/a903e140-555a-4ee0-ba56-d6b5bb9a1553)
+![image](https://github.com/yinanericxue/SIFT-Feature-Detection/assets/102645083/48f82784-0dc0-4259-a472-73567c5d9c4a)
+
+#### At (x,y,σ ):
